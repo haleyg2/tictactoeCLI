@@ -1,7 +1,7 @@
 /*
 Haley Gray
 05/26/2024
-Purpose: To use class and control access modifiers with attributes and methods
+Purpose: CLI tictactoe game. Uses enums for each tictactoe cell & the gamestate
 */
 import java.util.Scanner;
 public class TicTacToe {

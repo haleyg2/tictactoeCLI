@@ -1,7 +1,7 @@
 /*
 Haley Gray
 05/26/2024
-Purpose: To use class and control access modifiers with attributes and methods
+Purpose: creates the game
 */
 public class Main {
     public static void main(String[] args) {
